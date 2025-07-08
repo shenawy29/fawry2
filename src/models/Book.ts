@@ -5,5 +5,4 @@ export default class Book {
     title: string;
     year: number;
     price: number;
-    bookType: "Paper" | "EBook" | "Showcase";
 }

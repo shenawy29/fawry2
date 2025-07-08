@@ -25,8 +25,6 @@ npm run test
 
 Output: 
 ```
-❯ npm run test
-
 > fawry2@1.0.0 test
 > tsx --test
 
